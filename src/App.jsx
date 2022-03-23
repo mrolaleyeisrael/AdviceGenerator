@@ -8,13 +8,13 @@ function App() {
 
   return (
     <div>
-      <div className=' rounded-lg max-w-sm mx-4 sm:mx-auto bg-dark-gray-blue shadow-xl flex-col justify-center px-3 relative z-10 h-[300px] w-[400px]'>
+      <div className=' rounded-lg max-w-sm mx-4 sm:mx-auto bg-dark-gray-blue shadow-xl flex-col justify-center px-3 relative z-10 h-[300px] md:w-[400px]'>
 
         <Advice />
 
       </div>
 
-      <div className=' text-white mt-20 w-2/3 max-w-lg mx-auto'>
+      <div className=' text-white mt-20 mx-auto'>
         <Footer />
       </div>
 
