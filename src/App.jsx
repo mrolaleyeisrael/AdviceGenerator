@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <div className=' rounded-lg max-w-sm mx-4 sm:mx-auto bg-dark-gray-blue shadow-xl flex-col justify-center px-3 relative z-10 h-[300px] md:w-[400px]'>
+      <div className=' rounded-lg max-w-sm mx-4 sm:mx-auto bg-dark-gray-blue shadow- shadow-neon-green flex-col justify-center px-3 relative z-10 h-[300px] md:w-[400px]'>
 
         <Advice />
 
