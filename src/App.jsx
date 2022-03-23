@@ -14,7 +14,7 @@ function App() {
 
       </div>
 
-      <div className=' text-white mt-20 w-2/3 sm:w-1/2 mx-auto'>
+      <div className=' text-white mt-20 w-2/3 max-w-lg mx-auto'>
         <Footer />
       </div>
 
